@@ -1,8 +1,6 @@
 **Hola, I'm Javier! 👋**
 
-I'm a Software Developer from México 🇲🇽 living in Berlin, Germany 🇩🇪.
-
-I enjoy creating frontend experiments, design tools and small games. Learn more about my projects on my website [javier.xyz](https://javier.xyz/).
+I'm a Software Developer from México 🇲🇽 living in Berlin, Germany 🇩🇪. I enjoy creating frontend experiments, design tools and small games. Learn more about my projects on my website [javier.xyz](https://javier.xyz/).
 
 **Recent digital art projects:**
 - [PINTR](https://javier.xyz/pintr/), create plotter-like line drawings from your images.
